@@ -16,7 +16,7 @@ Client.on('message', (message)=>{
         message.reply("Snakes twitch channel is, https://twitch.tv/snakegamesttv (someone took snakegames so I had to use snakegamesttv)");
 
     if(message.content.startsWith(prefix + "help"))
-        message.send.author("Snakes commands are, `-twitch, -youtube, -mcdiscord -mcleaks`.");
+        message.author.send("Snakes commands are, `-twitch, -youtube, -mcdiscord -mcleaks`.");
 
 
     if(message.content.startsWith(prefix + "youtube"))
