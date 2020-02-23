@@ -23,7 +23,7 @@ Client.on('message', (message)=>{
         message.reply("Snakes youtube is, https://youtube.com/snakegamesofficial");
 
     if(message.conent.startsWith(prefix + "mcdiscord"))
-        message.reply(Snakes mc server (also ran by his friend) is https://discord.gg/Q789y3N)
+        message.reply("Snakes mc server (also ran by his friend) is https://discord.gg/Q789y3N");
 
     if(message.content.startsWith(prefix + "mcleaks"))
         message.reply("The MC leaks website is; https://mcleaks.net If you want to know how to use it, here is snake's recent video on it! https://www.youtube.com/watch?v=XPtgMijhlQE");
