@@ -30,4 +30,4 @@ Client.on('message', (message)=>{
 })
 
 
-client.login(process.env.token);
+Client.login(process.env.token);
