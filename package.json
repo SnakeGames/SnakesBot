@@ -1,0 +1,23 @@
+{
+  "name": "SnakesBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node SnakesBot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnakeGames/SnakesBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnakeGames/SnakesBot/issues"
+  },
+  "homepage": "https://github.com/SnakeGames/SnakesBot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
