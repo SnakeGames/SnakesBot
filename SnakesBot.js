@@ -22,7 +22,7 @@ Client.on('message', (message)=>{
     if(message.content.startsWith(prefix + "youtube"))
         message.reply("Snakes youtube is, https://youtube.com/snakegamesofficial");
 
-    if(message.conent.startsWith(prefix + "mcdiscord"))
+    if(message.content.startsWith(prefix + "mcdiscord"))
         message.reply("Snakes mc server (also ran by his friend) is https://discord.gg/Q789y3N");
 
     if(message.content.startsWith(prefix + "mcleaks"))
